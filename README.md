@@ -16,13 +16,9 @@
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/marcmolgar/awesome-cv/main/cv.pdf)
 
-<object data="https://github.com/marcmolgar/awesome-cv/blob/main/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/marcmolgar/awesome-cv/blob/main/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/marcmolgar/awesome-cv/blob/main/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img alt="AwesomeCV" src="https://raw.githubusercontent.com/marcmolgar/awesome-cv/main/cv.png" width="100%" max-width="100px"/>
 
 ## How to Use
 
